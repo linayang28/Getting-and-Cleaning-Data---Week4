@@ -11,8 +11,7 @@ downloaded files
 Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip \
 Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-    The dataset includes the following files:
-
+The Dataset includes the following files: \
    'README.txt'
    'features_info.txt': Shows information about the variables used on the feature vector.
    'features.txt': List of all features.
