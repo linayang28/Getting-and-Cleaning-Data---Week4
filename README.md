@@ -22,8 +22,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 What you find in this repository
 ========================================
-CodeBook.md: information about raw and tidy data set and elaboration made to transform them
-
-README.md: this file
-
-run_analysis.R: R script to transform raw data set into a tidy data set
+CodeBook.md: information about raw and tidy data set and elaboration made to transform them \
+README.md: this file \
+run_analysis.R: R script to transform raw data set into a tidy data set \
+newTidyData.txt
